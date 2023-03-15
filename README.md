@@ -3,7 +3,7 @@
 I've create helper script to setup my favorite windows terminal config.
 In order to pimp my terminal I'm using [Oh My Posh](https://ohmyposh.dev/)
 
-![mkachniarz.png]("./assets/mkachniarz.png")
+![mkachniarz.png](./assets/mkachniarz.png)
 
 
 # Prerequisites
