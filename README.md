@@ -13,4 +13,4 @@ Before running the script you need to have [winget](https://learn.microsoft.com/
 
 # Usage
 
-Just run `setup-windows-terminal.ps1` script.
+Just clone the repo & run `setup-windows-terminal.ps1` script.
